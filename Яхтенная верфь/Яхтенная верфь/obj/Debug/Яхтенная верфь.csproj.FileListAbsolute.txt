@@ -1,0 +1,41 @@
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Яхтенная верфь.exe.config
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Яхтенная верфь.exe
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Яхтенная верфь.pdb
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная верфь.csprojAssemblyReference.cache
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form1.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form2.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Properties.Resources.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная верфь.csproj.GenerateResource.cache
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная верфь.csproj.CoreCompileInputs.cache
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная верфь.exe
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная верфь.pdb
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\EntityFramework.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Google.Protobuf.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Buffers.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Memory.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\EntityFramework.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Google.Protobuf.pdb
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\Google.Protobuf.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Buffers.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Memory.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная верфь.csproj.CopyComplete
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form3.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form10.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form11.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form12.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form4.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form5.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form6.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form7.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form8.resources
+C:\Users\blago\source\repos\Яхтенная верфь\Яхтенная верфь\obj\Debug\Яхтенная_верфь.Form9.resources
